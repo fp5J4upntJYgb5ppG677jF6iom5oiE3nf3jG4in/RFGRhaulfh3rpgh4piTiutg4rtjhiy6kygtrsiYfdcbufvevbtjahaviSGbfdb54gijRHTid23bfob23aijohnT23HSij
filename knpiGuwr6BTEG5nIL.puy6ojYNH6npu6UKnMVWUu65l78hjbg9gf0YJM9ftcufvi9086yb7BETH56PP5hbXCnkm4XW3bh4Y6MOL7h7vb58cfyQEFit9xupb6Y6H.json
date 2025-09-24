@@ -8,11 +8,11 @@
     "link_download_app": "the link app to download"
   },
   "quran_json": {
-    "new_version": "1.1.6",
+    "new_version": "1.2.0",
     "force_update": true,
     "message_mialpg": "الإصدار الجديد متوفر. هل تريد التحديث الآن؟",
     "what_new": "the new think is",
-    "link_download_app": "https://apkpure.com/group/com.mr.r.quranjson"
+    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.quranjson?version=latest"
   },
   "abdolbaser": {
     "new_version": "2.1.5",
