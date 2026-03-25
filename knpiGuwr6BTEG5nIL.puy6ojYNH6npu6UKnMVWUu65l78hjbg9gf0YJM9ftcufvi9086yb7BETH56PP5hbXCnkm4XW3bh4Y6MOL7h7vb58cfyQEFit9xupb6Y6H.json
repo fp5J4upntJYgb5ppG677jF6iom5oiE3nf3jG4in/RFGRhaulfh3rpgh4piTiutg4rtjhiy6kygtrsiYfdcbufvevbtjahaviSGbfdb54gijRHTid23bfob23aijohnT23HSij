@@ -1,7 +1,7 @@
 {
   "maher_al_malq": {
     "new_version": "1.0",
-    "force_update": false,
+    "force_update": true,
     "message_mialpg_ar": "A new version is available. Please download the new version.",
     "message_mialpg_en": "الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
     "what_new": "the new think is",
