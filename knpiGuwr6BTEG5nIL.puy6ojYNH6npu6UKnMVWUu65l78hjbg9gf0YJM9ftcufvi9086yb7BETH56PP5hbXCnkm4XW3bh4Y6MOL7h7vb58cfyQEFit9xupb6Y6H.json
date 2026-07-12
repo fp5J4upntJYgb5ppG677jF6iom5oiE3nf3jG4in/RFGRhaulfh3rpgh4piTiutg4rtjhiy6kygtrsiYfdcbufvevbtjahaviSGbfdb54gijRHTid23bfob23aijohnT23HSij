@@ -19,14 +19,14 @@
     "message_mialpg_ar": "A new version is available. Please download the new version.",
     "message_mialpg_en": "الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
      "what_new": "the new think is",
-    "link_download_app": "the link app to download"
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.abdulbast?version=latest"
   },  
   "quran_json": {
     "new_version": "1.3.1",
     "force_update": true,
     "message_mialpg": "الإصدار الجديد متوفر الآن يجب تحديث البرنامج لمتابعة الاستخدام.",
     "what_new": "تم تصحيح خطأ الفكر الجديد في إضافة الأمان والتحقق",
-    "link_download_app": "https://fp5j4upntjygb5ppg677jf6iom5oie3nf3jg4in.github.io/Quran-Mr.R/"
+    "link_download_app":"https://d.apkpure.com/b/APK/com.mr.r.quranjson?version=latest"
   },
   "voice_to_text": {
     "new_version": "1.1",
