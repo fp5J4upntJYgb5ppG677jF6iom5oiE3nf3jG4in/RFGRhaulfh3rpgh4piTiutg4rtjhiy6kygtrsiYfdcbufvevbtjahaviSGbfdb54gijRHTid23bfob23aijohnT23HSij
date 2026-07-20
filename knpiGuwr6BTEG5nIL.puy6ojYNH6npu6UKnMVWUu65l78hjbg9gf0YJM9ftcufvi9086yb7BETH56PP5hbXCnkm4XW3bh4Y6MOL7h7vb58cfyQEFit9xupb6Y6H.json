@@ -9,12 +9,12 @@
   }, 
     "ahmed_al_ajmi": {
     "new_version": "2.0",
-    "force_update": false,
+    "force_update": true,
      "what_new": "the new think is",
     "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.ahmad_alajamy?version=latest"
   }, 
   "abdolbaser": {
-    "new_version": "1.0",
+    "new_version": "1.1",
     "force_update": false,
     "message_mialpg_ar": "A new version is available. Please download the new version.",
     "message_mialpg_en": "الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
