@@ -16,7 +16,7 @@
     "website_active": ["webMain", "webApp", "webQuran"]
   }
 ,"maher_al_malq": {
-    "id": 1,
+    "id": 2,
     "name_ar": "ماهر المعيقلي",
     "name_en": "Maher Al-Muaiqly",
     "new_version": "1.3.4",
