@@ -27,7 +27,7 @@
     "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
     "force_update": false,
-    "publish_app": true,
+    "publish_app": false,
     "website_active": ["webMain", "webApp", "webQuran"]
   }
 }
