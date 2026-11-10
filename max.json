@@ -15,17 +15,17 @@
     "publish_app": true,
     "website_active": ["webMain", "webApp", "webQuran"]
   },
-   "maher_al_malq2": {
+   "maher2": {
     "id": 1,
-    "name_ar": "ماهر المعيقلي",
-    "name_en": "Maher Al-Muaiqly",
+    "name_ar": "  المعيقلي",
+    "name_en": "Maher Al- ",
     "new_version": "1.3.4",
     "type": "quran_audio",
     "desc_ar": "تطبيق للاستماع إلى القرآن الكريم كاملًا بصوت القارئ الشيخ ماهر المعيقلي.",
     "desc_en": "An app to listen to the complete Holy Quran recited by Sheikh Maher Al-Muaiqly.",
     "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest",
-    "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
-    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
+    "link_icon_app": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMTAxMTIwMjM0Nzk3/icon.webp?w=280&fakeurl=1&type=.webp",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher2",
     "force_update": false,
     "publish_app": true,
     "website_active": ["webMain", "webApp", "webQuran"]
