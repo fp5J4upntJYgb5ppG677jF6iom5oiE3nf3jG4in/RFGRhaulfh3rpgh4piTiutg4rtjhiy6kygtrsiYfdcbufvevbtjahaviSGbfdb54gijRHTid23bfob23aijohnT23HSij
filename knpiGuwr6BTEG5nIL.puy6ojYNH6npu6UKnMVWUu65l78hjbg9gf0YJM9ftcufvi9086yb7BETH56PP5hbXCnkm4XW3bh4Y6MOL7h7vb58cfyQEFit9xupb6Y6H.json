@@ -13,7 +13,7 @@
 
   "force_update": false,
   "publish_app": true,
-  "website_active": ["web1", "web2", "web3"]
+  "website_active": ["webMain", "webApp", "webQuran"]
 },
 
   
