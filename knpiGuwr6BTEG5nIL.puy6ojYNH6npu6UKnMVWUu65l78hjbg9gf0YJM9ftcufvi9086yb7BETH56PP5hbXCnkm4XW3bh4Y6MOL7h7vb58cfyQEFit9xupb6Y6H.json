@@ -1,74 +1,159 @@
+
 {
- "maher_al_malq": {
-  "id":1,
-  "name_ar": "ماهر المعيقلي",
-  "name_en": "Maher Al-Muaiqly",
-  "new_version": "1.3.4",
-  "type": "quran_audio",
-  "desc_ar": "تطبيق للاستماع إلى القرآن الكريم كاملًا بصوت القارئ الشيخ ماهر المعيقلي.",
-  "desc_en": "An app to listen to the complete Holy Quran recited by Sheikh Maher Al-Muaiqly.",
+  "maher_al_malq": {
+    "id": 1,
+    "name_ar": "ماهر المعيقلي",
+    "name_en": "Maher Al-Muaiqly",
+    "new_version": "1.3.4",
+    "type": "quran_audio",
+    "desc_ar": "تطبيق للاستماع إلى القرآن الكريم كاملًا بصوت القارئ الشيخ ماهر المعيقلي.",
+    "desc_en": "An app to listen to the complete Holy Quran recited by Sheikh Maher Al-Muaiqly.",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest",
+    "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
+    "force_update": false,
+    "publish_app": true,
+    "website_active": ["webMain", "webApp", "webQuran"]
+  },
 
-  "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest",
-  "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
-  "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
-
-  "force_update": false,
-  "publish_app": true,
-  "website_active": ["webMain", "webApp", "webQuran"]
-},
-
-  
-  "mohammad_hamdani": { 
+  "mohammad_hamdani": {
+    "id": 2,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "1.0",
-    "force_update": true, 
-    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.mohammad_hamdani?version=latest"
-  },  
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.mohammad_hamdani?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
+    "force_update": true,
+    "publish_app": true,
+    "website_active": []
+  },
+
   "saad_al_gamdi": {
+    "id": 3,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "1.0.0",
-    "force_update": true, 
-    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.saad_ghamdi?version=latest"
-  },  
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.saad_ghamdi?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
+    "force_update": true,
+    "publish_app": true,
+    "website_active": []
+  },
+
   "maher2_al_malq": {
+    "id": 4,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "1.0.0",
-    "force_update": true, 
-    "link_download_app": ""
-  }, 
-    "ahmed_al_ajmi": {
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "",
+    "link_icon_app": "",
+    "link_page_app": "",
+    "force_update": true,
+    "publish_app": true,
+    "website_active": []
+  },
+
+  "ahmed_al_ajmi": {
+    "id": 5,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "2.1",
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.ahmad_alajamy?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
     "force_update": true,
-     "what_new": "the new think is",
-    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.ahmad_alajamy?version=latest"
-  }, 
+    "publish_app": true,
+    "website_active": [],
+    "what_new": "the new think is"
+  },
+
   "abdolbaser": {
+    "id": 6,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "1.1",
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.abdulbast?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
     "force_update": true,
+    "publish_app": true,
+    "website_active": [],
     "message_mialpg_ar": "A new version is available. Please download the new version.",
     "message_mialpg_en": "الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
-     "what_new": "the new think is",
-    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.abdulbast?version=latest"
-  },  
+    "what_new": "the new think is"
+  },
+
   "quran_json": {
+    "id": 7,
+    "name_ar": "",
+    "name_en": "",
     "version_code": 4,
     "new_version": "1.4.0",
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.quranjson?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
     "force_update": true,
+    "publish_app": true,
+    "website_active": [],
     "message_mialpg": "الإصدار الجديد متوفر الآن يجب تحديث البرنامج لمتابعة الاستخدام.",
-    "what_new": "تم تصحيح خطأ الفكر الجديد في إضافة الأمان والتحقق",
-    "link_download_app":"https://d.apkpure.com/b/APK/com.mr.r.quranjson?version=latest"
+    "what_new": "تم تصحيح خطأ الفكر الجديد في إضافة الأمان والتحقق"
   },
+
   "voice_to_text": {
+    "id": 8,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "1.1",
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.json_editor?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
     "force_update": true,
+    "publish_app": true,
+    "website_active": [],
     "message_mialpg_ar": "A new version is available. Please download the new version.",
     "message_mialpg_en": "الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
-    "what_new": "the new think is",
-    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.json_editor?version=latest"
-  }  ,  
+    "what_new": "the new think is"
+  },
+
   "json_editor": {
+    "id": 9,
+    "name_ar": "",
+    "name_en": "",
     "new_version": "1.1",
+    "type": "",
+    "desc_ar": "",
+    "desc_en": "",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.json_editor?version=latest",
+    "link_icon_app": "",
+    "link_page_app": "",
     "force_update": true,
+    "publish_app": true,
+    "website_active": [],
     "message_mialpg_ar": "A new version is available. Please download the new version.",
     "message_mialpg_en": ".الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
-    "what_new": "the new think is",
-    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.json_editor?version=latest"
+    "what_new": "the new think is"
   }
 }
