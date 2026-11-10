@@ -1,5 +1,23 @@
 {
-  "mohammad_hamdani": {
+ "maher_al_malq": {
+  "name_ar": "ماهر المعيقلي",
+  "name_en": "Maher Al-Muaiqly",
+  "new_version": "1.3.4",
+  "type": "quran_audio",
+  "desc_ar": "تطبيق للاستماع إلى القرآن الكريم كاملًا بصوت القارئ الشيخ ماهر المعيقلي.",
+  "desc_en": "An app to listen to the complete Holy Quran recited by Sheikh Maher Al-Muaiqly.",
+
+  "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest",
+  "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
+  "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
+
+  "force_update": false,
+  "publish_app": true,
+  "website_active": ["web1", "web2", "web3"]
+},
+
+  
+  "mohammad_hamdani": { 
     "new_version": "1.0",
     "force_update": true, 
     "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.mohammad_hamdani?version=latest"
@@ -13,14 +31,6 @@
     "new_version": "1.0.0",
     "force_update": true, 
     "link_download_app": ""
-  }, 
-  "maher_al_malq": {
-    "new_version": "1.3.3",
-    "force_update": true,
-    "message_mialpg_ar": "A new version is available. Please download the new version.",
-    "message_mialpg_en": "الإصدار الجديد متوفر. رجا تحميل اصدار جديد!",
-     "what_new": "the new think is",
-    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest"
   }, 
     "ahmed_al_ajmi": {
     "new_version": "2.1",
