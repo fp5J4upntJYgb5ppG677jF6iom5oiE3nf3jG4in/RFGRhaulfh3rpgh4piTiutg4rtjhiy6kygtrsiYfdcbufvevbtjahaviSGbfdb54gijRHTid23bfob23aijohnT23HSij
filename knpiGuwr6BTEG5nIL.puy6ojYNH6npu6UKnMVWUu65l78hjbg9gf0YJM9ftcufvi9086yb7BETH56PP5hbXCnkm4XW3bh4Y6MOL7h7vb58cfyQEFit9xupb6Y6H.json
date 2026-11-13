@@ -133,10 +133,10 @@
   "json_editor": {
     "id": 9,
     "name_ar": "JSON Editor & Viewer",
-    "name_en": "تطبيق احترافي لعرض وتعديل وتنسيق ملفات JSON وتصحيحها بكل سهولة مع دعم لعرض الشجرة والكود المباشر.",
+    "name_en":  "JSON Editor & Viewer",
     "new_version": "1.1",
     "type": "app",
-    "desc_ar": "JSON Editor & Viewer",
+    "desc_ar": "تطبيق احترافي لعرض وتعديل وتنسيق ملفات JSON وتصحيحها بكل سهولة مع دعم لعرض الشجرة والكود المباشر.",
     "desc_en": "A developer utility application to view, edit, format, and validate JSON structures on the go with tree and code views.",
     "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.json_editor?version=latest",
     "link_icon_app": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjUxMjIzMjA1MTIzMDAx?w=150",
