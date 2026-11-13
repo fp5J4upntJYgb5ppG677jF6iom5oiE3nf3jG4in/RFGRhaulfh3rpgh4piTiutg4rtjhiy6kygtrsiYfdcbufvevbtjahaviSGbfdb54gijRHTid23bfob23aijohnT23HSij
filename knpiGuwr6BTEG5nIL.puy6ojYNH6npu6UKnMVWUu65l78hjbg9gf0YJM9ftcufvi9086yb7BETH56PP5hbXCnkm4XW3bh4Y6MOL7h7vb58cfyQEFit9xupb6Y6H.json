@@ -8,9 +8,9 @@
     "type": "quran_audio",
     "desc_ar": "تطبيق للاستماع إلى القرآن الكريم كاملًا بصوت القارئ الشيخ ماهر المعيقلي.",
     "desc_en": "An app to listen to the complete Holy Quran recited by Sheikh Maher Al-Muaiqly.",
-    "link_download_app": "https://cdn.mp3quran.net/audio/maher-muaiqly/r1/",
-    "link_icon_app": "https://cdn.mp3quran.net/audio/maher-muaiqly/r2/",
-    "link_page_app": "https://cdn.mp3quran.net/audio/maher-muaiqly/r3/",
+  "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest",
+    "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
     "force_update": false,
     "publish_app": true,
     "website_active": ["webMain", "webApp", "webQuranMP3"]
