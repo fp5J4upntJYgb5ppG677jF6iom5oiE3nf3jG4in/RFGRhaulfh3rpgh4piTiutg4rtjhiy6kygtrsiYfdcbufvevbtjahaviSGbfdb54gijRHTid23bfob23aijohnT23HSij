@@ -1,22 +1,7 @@
 
 {
-     "maher2": {
+    "maher_al_malq": {
     "id": 1,
-    "name_ar": "  المعيقلي",
-    "name_en": "Maher Al- ",
-    "new_version": "1.3.4",
-    "type": "quran_audio",
-    "desc_ar": "تطبيق للاستماع إلى القرآن الكريم كاملًا بصوت القارئ الشيخ ماهر المعيقلي.",
-    "desc_en": "An app to listen to the complete Holy Quran recited by Sheikh Maher Al-Muaiqly.",
-    "link_download_app": "https://d.apkpure.com/b/APK/com.mr.r.maher_malq?version=latest",
-    "link_icon_app": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMTAxMTIwMjM0Nzk3/icon.webp?w=280&fakeurl=1&type=.webp",
-    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher2",
-    "force_update": false,
-    "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
-  }
-,"maher_al_malq": {
-    "id": 2,
     "name_ar": "ماهر المعيقلي",
     "name_en": "Maher Al-Muaiqly",
     "new_version": "1.3.4",
@@ -27,7 +12,55 @@
     "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMDE1MDQ1NzQwODky?w=500",
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
     "force_update": false,
+    "publish_app": true,
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
+  },
+
+  "mohammad_hamdani": {
+    "id": 2,
+    "name_ar": "محمد اللحيدان",
+    "name_en": "Mohammad Al-Luhaidan",
+    "new_version": "1.0",
+    "type": "quran_audio",
+    "desc_ar":  "الاستماع الكامل للقرآن الكريم بصوت القارئ الشيخ محمد اللحيدان بجودة صوت عالية وواضحة وبدون اتصال بالإنترنت.",
+    "desc_en": "Listen to the complete Holy Quran recited by Sheikh Mohammad Al-Luhaidan in premium, crystal-clear audio quality without internet.",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.mohammad_hamdani?version=latest",
+    "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMTAxMTIwMjM0Nzk3/icon.webp?w=140&fakeurl=1&type=.webp",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=mohammad_hamdani",
+    "force_update": true,
+    "publish_app": true,
+    "website_active": ["webMain", "webApp"]
+  },
+
+  "saad_al_gamdi": {
+    "id": 3,
+    "name_ar": "سعد الغامدي بدون نت",
+    "name_en": "Saad Al Ghamdi Quran",
+    "new_version": "1.0.0",
+    "type": "quran_audio",
+    "desc_ar": "تطبيق القرآن الكريم كاملاً بصوت الشيخ سعد الغامدي بجودة صوت عالية وواضحة بدون إنترنت.",
+    "desc_en": "Listen to the complete Holy Quran recited by Sheikh Saad Al Ghamdi in premium, crystal-clear audio quality without internet.",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.saad_ghamdi?version=latest",
+    "link_icon_app": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYwODA1MTk1MjIzNjU5/icon.png?w=150&fakeurl=1",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=saad_ghamdi",
+    "force_update": true,
     "publish_app": false,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
+  },
+
+  "saad_al_gamffdi": {
+    "id": 3,
+    "name_ar": "سعد الغامدي بدون نت",
+    "name_en": "Saad Al Ghamdi Quran",
+    "new_version": "1.0.0",
+    "type": "quran_audio",
+    "desc_ar": "تطبيق القرآن الكريم كاملاً بصوت الشيخ سعد الغامدي بجودة صوت عالية وواضحة بدون إنترنت.",
+    "desc_en": "Listen to the complete Holy Quran recited by Sheikh Saad Al Ghamdi in premium, crystal-clear audio quality without internet.",
+    "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.saad_ghamdi?version=latest",
+    "link_icon_app": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYwODA1MTk1MjIzNjU5/icon.png?w=150&fakeurl=1",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=saad_ghamdi",
+    "force_update": true,
+    "publish_app": true,
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   }
 }
