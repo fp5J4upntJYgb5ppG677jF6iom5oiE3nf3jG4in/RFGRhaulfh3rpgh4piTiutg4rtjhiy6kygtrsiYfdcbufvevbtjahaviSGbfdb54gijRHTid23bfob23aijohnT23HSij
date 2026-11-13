@@ -142,7 +142,7 @@
     "link_icon_app": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjUxMjIzMjA1MTIzMDAx?w=150",
     "link_page_app": "http://mrrapp.vercel.app/we_ap_pub/app.html?app=json_editor",
     "force_update": true,
-    "publish_app": true,
+    "publish_app": false,
 
     "website_active": ["webMain", "webApp"]
   }
