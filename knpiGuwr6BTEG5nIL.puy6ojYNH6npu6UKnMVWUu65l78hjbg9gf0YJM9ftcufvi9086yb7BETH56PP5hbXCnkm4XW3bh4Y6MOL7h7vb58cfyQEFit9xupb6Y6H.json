@@ -13,7 +13,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher",
     "force_update": false,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "mohammad_hamdani": {
@@ -29,7 +29,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=mohammad_hamdani",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "saad_al_gamdi": {
@@ -45,7 +45,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=saad_ghamdi",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "maher2_al_malq": {
@@ -61,7 +61,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=maher2",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "ahmed_al_ajmi": {
@@ -77,7 +77,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=ajmi",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "abdolbaser": {
@@ -93,7 +93,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=abbast",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "quran_json": {
@@ -110,7 +110,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=quran",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuran"]
+    "website_active": ["webMain", "webApp", "webQuranMP3"]
   },
 
   "voice_to_text": {
