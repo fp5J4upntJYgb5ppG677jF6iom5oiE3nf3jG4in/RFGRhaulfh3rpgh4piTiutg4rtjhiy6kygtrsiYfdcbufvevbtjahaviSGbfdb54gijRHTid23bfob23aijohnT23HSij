@@ -18,15 +18,15 @@
 
   "mohammad_hamdani": {
     "id": 2,
-    "name_ar": "",
-    "name_en": "",
+    "name_ar": "محمد اللحيدان",
+    "name_en": "Mohammad Al-Luhaidan",
     "new_version": "1.0",
     "type": "",
-    "desc_ar": "",
-    "desc_en": "",
+    "desc_ar":  "الاستماع الكامل للقرآن الكريم بصوت القارئ الشيخ محمد اللحيدان بجودة صوت عالية وواضحة وبدون اتصال بالإنترنت.",
+    "desc_en": "Listen to the complete Holy Quran recited by Sheikh Mohammad Al-Luhaidan in premium, crystal-clear audio quality without internet.",
     "link_download_app": "https://d.apkpure.com/b/APK/com.app.mr.r.mohammad_hamdani?version=latest",
-    "link_icon_app": "",
-    "link_page_app": "",
+    "link_icon_app": "https://image-eo.winudf.com/v2/image1/ZGV2X2ltYWdlXzk1NzUxMTBfMjIyNjM2XzIwMjYxMTAxMTIwMjM0Nzk3/icon.webp?w=140&fakeurl=1&type=.webp",
+    "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=mohammad_hamdani",
     "force_update": true,
     "publish_app": true,
     "website_active": ["webMain", "webApp", "webQuran"]
