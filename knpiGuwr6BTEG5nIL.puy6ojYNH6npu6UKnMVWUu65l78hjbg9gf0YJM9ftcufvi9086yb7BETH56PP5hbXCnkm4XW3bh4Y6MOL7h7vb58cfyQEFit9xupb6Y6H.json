@@ -145,6 +145,6 @@
     "force_update": true,
     "publish_app": true,
 
-    "website_active": ["webMain", "webApp"]
+    "website_active": ["webMain"]
   }
 }
