@@ -110,7 +110,7 @@
     "link_page_app": "https://mrrapp.vercel.app/we_ap_pub/app.html?app=quran",
     "force_update": true,
     "publish_app": true,
-    "website_active": ["webMain", "webApp", "webQuranMP3"]
+    "website_active": ["webMain", "webApp"]
   },
 
   "voice_to_text": {
